@@ -1,0 +1,61 @@
+{
+
+    "name": "sympy-bot-",
+
+    "version": "0.0.1",
+
+    "description": "A simple but advanced Discord bot.",
+
+    "main": "index.js",
+
+    "script": {
+
+    "name": "sympy-bot-",
+
+    "version": "0.0.1",
+
+    "description": "A simple but advanced Discord bot.",
+
+    "main": "index.js",
+
+    "scripts": {
+
+        "start": "node index.js"
+
+    },
+
+    "dependencies": {
+
+        "express": "^4.17.1",
+
+        "discord-script": "^0.6.8",
+
+        "fs": "^0.0.2"
+
+    },
+
+    "engines": {
+
+        "node": "8.x"
+
+    },
+
+    "repository": {
+
+        "url": "https://glitch.com/edit/#!/sympy-bot-"
+
+    },
+
+    "license": "MIT",
+
+    "keywords": [
+
+        "node",
+
+        "glitch",
+
+        "express"
+
+    ]
+
+}
